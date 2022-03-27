@@ -1,2 +1,2 @@
-# Calculo IMC
+# Cálculo IMC
  Primeiro Repositório (calculadora-imc) 
